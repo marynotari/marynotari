@@ -1,16 +1,16 @@
-## Hi there 👋
+# About me
 
-<!--
-**marynotari/marynotari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+  my portfolio of interactive art pieces.
+
 - 👯 I’m looking to collaborate on ...
+  performances that use interactive tech.
+  
 - 🤔 I’m looking for help with ...
+  making contacts within the art and technology world.
+  
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  my tomato garment.
+
+
