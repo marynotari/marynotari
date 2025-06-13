@@ -20,4 +20,6 @@ Examples of past work include a dance duet with one live dancer and one dancer r
 💬 Ask me about ...
   my tomato garment.
 
+📬 Email me ... mary dot notari at gmail dot com
+
 
